@@ -15,7 +15,7 @@ Interesting graphs include:
 
 ![static_bubbles](Plots/2.png)  
 
-![anim_plotly_bubbles](Plots/3.png)
+![anim_plotly_bubbles](Plots/plotly_bubbles.gif)
 
 ![SST_2Dlines](Plots/4.png)
   
