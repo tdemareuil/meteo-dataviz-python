@@ -1,4 +1,5 @@
-# Meteo_DataViz_Python
+# meteo-dataviz-python
+
 Analyzing and representing meteorological variables in famous towns along the French coast, over the past 6 years.
 
 Historical data comes from meteorological stations in French coastal airports part of the METAR network (see notebook for more details).
